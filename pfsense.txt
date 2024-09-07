@@ -24,6 +24,8 @@
 0.0.0.0	youtube-nocookie.com
 0.0.0.0	youtube-ui.l.google.com
 0.0.0.0	youtube.ae
+0.0.0.0	www.youtube.com
+0.0.0.0 .youtube.com
 0.0.0.0	youtube.al
 0.0.0.0	youtube.am
 0.0.0.0	youtube.at
